@@ -1,3 +1,3 @@
 # Better plot
 Plot a relation with axis and graph intercepts, stationary points, asymptotes, discontinuity points, endpoints, midpoints.
-<img width="2046" alt="image" src="https://github.com/user-attachments/assets/67f4d311-1833-4055-b521-3c98be35a849">
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/66e6c858-b5f3-43be-ab4f-479566967fb6">
